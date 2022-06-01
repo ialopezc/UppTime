@@ -33,11 +33,11 @@ sites:
     url: https://www.valesdedespensa.com/
     
   - name: Efectimapas
-    url: http://www.efectimapas.com/
+    url: http://efectimapas.com/
     icon: http://www.efectivale.com.mx/static/website/img/home/favicon.ico
     __dangerous__disable_verify_host: true
   - name: Efectimapas certificado ssl
-    url: https://www.efectimapas.com/
+    url: https://efectimapas.com/
   
   - name: CMS Facebook
     url: http://www.efectivale.com/cms/
