@@ -52,6 +52,14 @@ sites: # Lista de puntos finales para rastrear
   - name: AST - Automatic Saving Tools certificado ssl
     url: $SITE_AST_SSL
     icon: https://cdn-icons-png.flaticon.com/512/1320/1320569.png
+    
+  - name: SDL - Sistema de leads
+    url: http://$SITE_SDL
+    icon: http://www.efectivale.com.mx/static/website/img/home/favicon.ico
+    __dangerous__disable_verify_host: true
+  - name: SDL - Sistema de leads certificado ssl
+    url: https://$SITE_SDL
+    icon: https://cdn-icons-png.flaticon.com/512/1320/1320569.png
   
   - name: CMS Facebook
     url: http://www.efectivale.com/cms/
