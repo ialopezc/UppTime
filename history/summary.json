@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 360,
-    "timeDay": 360,
-    "timeWeek": 360,
-    "timeMonth": 360,
-    "timeYear": 360,
+    "time": 349,
+    "timeDay": 349,
+    "timeWeek": 349,
+    "timeMonth": 349,
+    "timeYear": 349,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://cdn-icons-png.flaticon.com/512/1320/1320569.png",
     "slug": "efectivale-com-mx-certificado-ssl",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-01": 184
+      "2022-06-01": 192
     }
   },
   {
@@ -42,60 +42,6 @@
     "url": "http://www.efectivale.com/combustible1/",
     "icon": "http://www.efectivale.com.mx/static/website/img/home/favicon.ico",
     "slug": "efectivale-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 243,
-    "timeDay": 243,
-    "timeWeek": 243,
-    "timeMonth": 243,
-    "timeYear": 243,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Efectivale .com certificado ssl",
-    "url": "https://www.efectivale.com/combustible1/",
-    "icon": "https://cdn-icons-png.flaticon.com/512/1320/1320569.png",
-    "slug": "efectivale-com-certificado-ssl",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 207,
-    "timeWeek": 207,
-    "timeMonth": 207,
-    "timeYear": 207,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Vales de Gasolina",
-    "url": "http://www.valesdegasolina.com/",
-    "icon": "http://www.efectivale.com.mx/static/website/img/home/favicon.ico",
-    "slug": "vales-de-gasolina",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 532,
-    "timeDay": 532,
-    "timeWeek": 532,
-    "timeMonth": 532,
-    "timeYear": 532,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Vales de Gasolina certificado ssl",
-    "url": "https://www.valesdegasolina.com/",
-    "icon": "https://cdn-icons-png.flaticon.com/512/1320/1320569.png",
-    "slug": "vales-de-gasolina-certificado-ssl",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
@@ -110,23 +56,77 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "Efectivale .com certificado ssl",
+    "url": "https://www.efectivale.com/combustible1/",
+    "icon": "https://cdn-icons-png.flaticon.com/512/1320/1320569.png",
+    "slug": "efectivale-com-certificado-ssl",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 197,
+    "timeDay": 197,
+    "timeWeek": 197,
+    "timeMonth": 197,
+    "timeYear": 197,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Vales de Gasolina",
+    "url": "http://www.valesdegasolina.com/",
+    "icon": "http://www.efectivale.com.mx/static/website/img/home/favicon.ico",
+    "slug": "vales-de-gasolina",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 597,
+    "timeDay": 597,
+    "timeWeek": 597,
+    "timeMonth": 597,
+    "timeYear": 597,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Vales de Gasolina certificado ssl",
+    "url": "https://www.valesdegasolina.com/",
+    "icon": "https://cdn-icons-png.flaticon.com/512/1320/1320569.png",
+    "slug": "vales-de-gasolina-certificado-ssl",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 224,
+    "timeDay": 224,
+    "timeWeek": 224,
+    "timeMonth": 224,
+    "timeYear": 224,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Vales de Despensa",
     "url": "http://www.valesdedespensa.com/",
     "icon": "http://www.efectivale.com.mx/static/website/img/home/favicon.ico",
     "slug": "vales-de-despensa",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-01": 205
+      "2022-06-01": 213
     }
   },
   {
@@ -146,7 +146,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-01": 197
+      "2022-06-01": 205
     }
   },
   {
@@ -166,7 +166,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-01": 205
+      "2022-06-01": 213
     }
   },
   {
@@ -186,7 +186,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-01": 197
+      "2022-06-01": 205
     }
   },
   {
@@ -200,11 +200,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 433,
-    "timeDay": 433,
-    "timeWeek": 433,
-    "timeMonth": 433,
-    "timeYear": 433,
+    "time": 396,
+    "timeDay": 396,
+    "timeWeek": 396,
+    "timeMonth": 396,
+    "timeYear": 396,
     "dailyMinutesDown": {}
   },
   {
@@ -218,11 +218,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 197,
-    "timeWeek": 197,
-    "timeMonth": 197,
-    "timeYear": 197,
+    "time": 193,
+    "timeDay": 193,
+    "timeWeek": 193,
+    "timeMonth": 193,
+    "timeYear": 193,
     "dailyMinutesDown": {}
   },
   {
@@ -236,13 +236,13 @@
     "uptimeWeek": "0.01%",
     "uptimeMonth": "0.01%",
     "uptimeYear": "0.01%",
-    "time": 74,
-    "timeDay": 74,
-    "timeWeek": 74,
-    "timeMonth": 74,
-    "timeYear": 74,
+    "time": 92,
+    "timeDay": 92,
+    "timeWeek": 92,
+    "timeMonth": 92,
+    "timeYear": 92,
     "dailyMinutesDown": {
-      "2022-06-01": 170
+      "2022-06-01": 178
     }
   },
   {
@@ -262,7 +262,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-01": 170
+      "2022-06-01": 178
     }
   },
   {
@@ -276,11 +276,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 320,
-    "timeDay": 320,
-    "timeWeek": 320,
-    "timeMonth": 320,
-    "timeYear": 320,
+    "time": 302,
+    "timeDay": 302,
+    "timeWeek": 302,
+    "timeMonth": 302,
+    "timeYear": 302,
     "dailyMinutesDown": {}
   },
   {
@@ -294,11 +294,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 190,
-    "timeDay": 190,
-    "timeWeek": 190,
-    "timeMonth": 190,
-    "timeYear": 190,
+    "time": 177,
+    "timeDay": 177,
+    "timeWeek": 177,
+    "timeMonth": 177,
+    "timeYear": 177,
     "dailyMinutesDown": {}
   },
   {
@@ -307,18 +307,18 @@
     "icon": "http://www.efectivale.com.mx/static/website/img/home/favicon.ico",
     "slug": "va-contigo",
     "status": "down",
-    "uptime": "10.48%",
-    "uptimeDay": "10.48%",
-    "uptimeWeek": "10.48%",
-    "uptimeMonth": "10.48%",
-    "uptimeYear": "10.48%",
-    "time": 603,
-    "timeDay": 603,
-    "timeWeek": 603,
-    "timeMonth": 603,
-    "timeYear": 603,
+    "uptime": "10.02%",
+    "uptimeDay": "10.02%",
+    "uptimeWeek": "10.02%",
+    "uptimeMonth": "10.02%",
+    "uptimeYear": "10.02%",
+    "time": 581,
+    "timeDay": 581,
+    "timeWeek": 581,
+    "timeMonth": 581,
+    "timeYear": 581,
     "dailyMinutesDown": {
-      "2022-06-01": 152
+      "2022-06-01": 160
     }
   },
   {
@@ -327,18 +327,18 @@
     "icon": "https://cdn-icons-png.flaticon.com/512/1320/1320569.png",
     "slug": "va-contigo-certificado-ssl",
     "status": "down",
-    "uptime": "10.49%",
-    "uptimeDay": "10.49%",
-    "uptimeWeek": "10.49%",
-    "uptimeMonth": "10.49%",
-    "uptimeYear": "10.49%",
-    "time": 200,
-    "timeDay": 200,
-    "timeWeek": 200,
-    "timeMonth": 200,
-    "timeYear": 200,
+    "uptime": "10.02%",
+    "uptimeDay": "10.02%",
+    "uptimeWeek": "10.02%",
+    "uptimeMonth": "10.02%",
+    "uptimeYear": "10.02%",
+    "time": 187,
+    "timeDay": 187,
+    "timeWeek": 187,
+    "timeMonth": 187,
+    "timeYear": 187,
     "dailyMinutesDown": {
-      "2022-06-01": 152
+      "2022-06-01": 160
     }
   }
 ]
