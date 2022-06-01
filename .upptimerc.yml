@@ -12,6 +12,14 @@ sites: # Lista de puntos finales para rastrear
   - name: Efectivale .com.mx certificado ssl
     url: https://www.efectivale.com.mx/
     icon: https://cdn-icons-png.flaticon.com/512/1320/1320569.png
+
+  - name: Efectivale .com.mx TEST
+    url: http://$SITE_EFV_TEST
+    icon: http://www.efectivale.com.mx/static/website/img/home/favicon.ico
+    __dangerous__disable_verify_host: true
+  - name: Efectivale .com.mx TEST certificado ssl
+    url: https://$SITE_EFV_TEST
+    icon: https://cdn-icons-png.flaticon.com/512/1320/1320569.png
     
   - name: Efectivale .com
     url: http://www.efectivale.com/combustible1/
@@ -28,6 +36,14 @@ sites: # Lista de puntos finales para rastrear
   - name: Vales de Gasolina certificado ssl
     url: https://www.valesdegasolina.com/
     icon: https://cdn-icons-png.flaticon.com/512/1320/1320569.png
+
+  - name: Vales de Gasolina TEST
+    url: http://$SITE_VDD_TEST
+    icon: http://www.efectivale.com.mx/static/website/img/home/favicon.ico
+    __dangerous__disable_verify_host: true
+  - name: Vales de Gasolina TEST certificado ssl
+    url: https://$SITE_VDD_TEST
+    icon: https://cdn-icons-png.flaticon.com/512/1320/1320569.png
     
   - name: Vales de Despensa
     url: http://www.valesdedespensa.com/
@@ -35,6 +51,14 @@ sites: # Lista de puntos finales para rastrear
     __dangerous__disable_verify_host: true
   - name: Vales de Despensa certificado ssl
     url: https://www.valesdedespensa.com/
+    icon: https://cdn-icons-png.flaticon.com/512/1320/1320569.png
+    
+  - name: Vales de Despensa TEST
+    url: http://$SITE_VDG_TEST
+    icon: http://www.efectivale.com.mx/static/website/img/home/favicon.ico
+    __dangerous__disable_verify_host: true
+  - name: Vales de Despensa TEST certificado ssl
+    url: https://$SITE_VDG_TEST
     icon: https://cdn-icons-png.flaticon.com/512/1320/1320569.png
     
   - name: Efectimapas
@@ -45,19 +69,19 @@ sites: # Lista de puntos finales para rastrear
     url: https://efectimapas.com/
     icon: https://cdn-icons-png.flaticon.com/512/1320/1320569.png
     
-  - name: AST - Automatic Saving Tools
-    url: $SITE_AST
+  - name: Automatic Saving Tools
+    url: http://$SITE_AST
     icon: http://www.efectivale.com.mx/static/website/img/home/favicon.ico
     __dangerous__disable_verify_host: true
-  - name: AST - Automatic Saving Tools certificado ssl
-    url: $SITE_AST_SSL
+  - name: Automatic Saving Tools certificado ssl
+    url: https://$SITE_AST
     icon: https://cdn-icons-png.flaticon.com/512/1320/1320569.png
     
-  - name: SDL - Sistema de leads
+  - name: Sistema de leads
     url: http://$SITE_SDL
     icon: http://www.efectivale.com.mx/static/website/img/home/favicon.ico
     __dangerous__disable_verify_host: true
-  - name: SDL - Sistema de leads certificado ssl
+  - name: Sistema de leads certificado ssl
     url: https://$SITE_SDL
     icon: https://cdn-icons-png.flaticon.com/512/1320/1320569.png
   
