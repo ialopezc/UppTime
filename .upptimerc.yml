@@ -10,6 +10,7 @@ sites:
     __dangerous__disable_verify_host: true
   - name: Efectivale .com.mx certificado ssl
     url: https://www.efectivale.com.mx/
+    icon: https://cdn-icons-png.flaticon.com/512/1320/1320569.png
     
   - name: Efectivale .com
     url: http://www.efectivale.com/combustible1/
@@ -17,6 +18,7 @@ sites:
     __dangerous__disable_verify_host: true
   - name: Efectivale .com certificado ssl
     url: https://www.efectivale.com/combustible1/
+    icon: https://cdn-icons-png.flaticon.com/512/1320/1320569.png
 
   - name: Vales de Gasolina
     url: http://www.valesdegasolina.com/
@@ -24,6 +26,7 @@ sites:
     __dangerous__disable_verify_host: true
   - name: Vales de Gasolina certificado ssl
     url: https://www.valesdegasolina.com/
+    icon: https://cdn-icons-png.flaticon.com/512/1320/1320569.png
     
   - name: Vales de Despensa
     url: http://www.valesdedespensa.com/
@@ -31,6 +34,7 @@ sites:
     __dangerous__disable_verify_host: true
   - name: Vales de Despensa certificado ssl
     url: https://www.valesdedespensa.com/
+    icon: https://cdn-icons-png.flaticon.com/512/1320/1320569.png
     
   - name: Efectimapas
     url: http://efectimapas.com/
@@ -38,6 +42,7 @@ sites:
     __dangerous__disable_verify_host: true
   - name: Efectimapas certificado ssl
     url: https://efectimapas.com/
+    icon: https://cdn-icons-png.flaticon.com/512/1320/1320569.png
   
   - name: CMS Facebook
     url: http://www.efectivale.com/cms/
@@ -45,6 +50,7 @@ sites:
     __dangerous__disable_verify_host: true
   - name: CMS Facebook certificado ssl
     url: https://www.efectivale.com/cms/
+    icon: https://cdn-icons-png.flaticon.com/512/1320/1320569.png
     
   - name: EfectiNet
     url: http://www.efectivale.com.mx/efectinet/login
@@ -52,6 +58,7 @@ sites:
     __dangerous__disable_verify_host: true
   - name: EfectiNet certificado ssl
     url: https://www.efectivale.com.mx/efectinet/login
+    icon: https://cdn-icons-png.flaticon.com/512/1320/1320569.png
     
   - name: Efectifintech
     url: http://www.efectifintech.com.mx/
@@ -59,6 +66,7 @@ sites:
     __dangerous__disable_verify_host: true
   - name: Efectifintech certificado ssl
     url: https://www.efectifintech.com.mx/
+    icon: https://cdn-icons-png.flaticon.com/512/1320/1320569.png
     
   - name: Va Contigo
     url: http://www.efectivalebeneficios.com/terminos-y-condiciones
@@ -66,6 +74,7 @@ sites:
     __dangerous__disable_verify_host: true
   - name: Va Contigo certificado ssl
     url: https://www.efectivalebeneficios.com/terminos-y-condiciones
+    icon: https://cdn-icons-png.flaticon.com/512/1320/1320569.png
     
 assignees:
   - ialopezc
