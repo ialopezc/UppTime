@@ -3,13 +3,27 @@ owner: ialopezc # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
+
+  - name: Efectivale .com.mx
+    url: http://www.efectivale.com.mx/
+    icon: http://www.efectivale.com.mx/static/website/img/home/favicon.ico
+    __dangerous__disable_verify_host: true
+  - name: Efectivale .com.mx certificado ssl
+    url: https://www.efectivale.com.mx/
+    
+  - name: Efectivale .com
+    url: http://www.efectivale.com/combustible1/
+    icon: http://www.efectivale.com.mx/static/website/img/home/favicon.ico
+    __dangerous__disable_verify_host: true
+  - name: Efectivale .com certificado ssl
+    url: https://www.efectivale.com/combustible1/
+
   - name: Vales de Gasolina
     url: http://www.valesdegasolina.com/
     icon: http://www.efectivale.com.mx/static/website/img/home/favicon.ico
     __dangerous__disable_verify_host: true
   - name: Vales de Gasolina certificado ssl
     url: https://www.valesdegasolina.com/
-    icon: https://www.efectivale.com.mx/static/website/img/home/favicon.ico
     
   - name: Vales de Despensa
     url: http://www.valesdedespensa.com/
@@ -17,7 +31,6 @@ sites:
     __dangerous__disable_verify_host: true
   - name: Vales de Despensa certificado ssl
     url: https://www.valesdedespensa.com/
-    icon: https://www.efectivale.com.mx/static/website/img/home/favicon.ico
     
   - name: Efectimapas
     url: http://www.efectimapas.com/
@@ -25,7 +38,6 @@ sites:
     __dangerous__disable_verify_host: true
   - name: Efectimapas certificado ssl
     url: https://www.efectimapas.com/
-    icon: https://www.efectivale.com.mx/static/website/img/home/favicon.ico
     
 assignees:
   - ialopezc
