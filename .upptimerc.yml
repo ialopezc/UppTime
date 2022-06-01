@@ -110,11 +110,11 @@ sites: # Lista de puntos finales para rastrear
     icon: https://cdn-icons-png.flaticon.com/512/1320/1320569.png
     
   - name: Va Contigo
-    url: http://www.efectivalebeneficios.com/terminos-y-condiciones/
+    url: http://www.efectivalebeneficios.com/
     icon: http://www.efectivale.com.mx/static/website/img/home/favicon.ico
     __dangerous__disable_verify_host: true
   - name: Va Contigo certificado ssl
-    url: https://www.efectivalebeneficios.com/terminos-y-condiciones/
+    url: https://www.efectivalebeneficios.com/
     icon: https://cdn-icons-png.flaticon.com/512/1320/1320569.png
     
 assignees: # Usuarios para asignar problemas de tiempo de inactividad
