@@ -1,8 +1,9 @@
 # Change these first
-owner: ialopezc # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: ialopezc # Tu nombre de usuario de GitHub
+repo: upptime # Nombre del repositorio de GitHub
+user-agent: ialopezc
 
-sites:
+sites: # Lista de puntos finales para rastrear
 
   - name: Efectivale .com.mx
     url: http://www.efectivale.com.mx/
@@ -76,7 +77,7 @@ sites:
     url: https://www.efectivalebeneficios.com/terminos-y-condiciones/
     icon: https://cdn-icons-png.flaticon.com/512/1320/1320569.png
     
-assignees:
+assignees: # Usuarios para asignar problemas de tiempo de inactividad
   - ialopezc
 
 status-website:
@@ -85,9 +86,9 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Isaac Lopez Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Isaac Lopez Upptime
+  introTitle: "**Upptime** es el monitor de tiempo de actividad de código abierto y la página de estado, impulsado completamente por GitHub."
+  introMessage: Esta es una página de estado de muestra que usa datos en **tiempo real** de nuestro [GitHub repository](https://github.com/upptime/upptime). No se requiere servidor, solo acciones, problemas y páginas de GitHub. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
