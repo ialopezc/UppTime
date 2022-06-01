@@ -4,25 +4,28 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Vales de Gasolina
+    url: http://www.valesdegasolina.com/
+    icon: http://www.efectivale.com.mx/static/website/img/home/favicon.ico
+    __dangerous__disable_verify_host: true
+  - name: Vales de Gasolina certificado ssl
     url: https://www.valesdegasolina.com/
     icon: https://www.efectivale.com.mx/static/website/img/home/favicon.ico
-    #__dangerous__disable_verify_host: true
+    
   - name: Vales de Despensa
+    url: http://www.valesdedespensa.com/
+    icon: http://www.efectivale.com.mx/static/website/img/home/favicon.ico
+    __dangerous__disable_verify_host: true
+  - name: Vales de Despensa certificado ssl
     url: https://www.valesdedespensa.com/
     icon: https://www.efectivale.com.mx/static/website/img/home/favicon.ico
-    #__dangerous__disable_verify_host: true
+    
   - name: Efectimapas
+    url: http://www.efectimapas.com/
+    icon: http://www.efectivale.com.mx/static/website/img/home/favicon.ico
+    __dangerous__disable_verify_host: true
+  - name: Efectimapas certificado ssl
     url: https://www.efectimapas.com/
     icon: https://www.efectivale.com.mx/static/website/img/home/favicon.ico
-    #__dangerous__disable_verify_host: true
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
     
 assignees:
   - ialopezc
