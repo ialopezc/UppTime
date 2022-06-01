@@ -6,15 +6,15 @@ sites:
   - name: Vales de Gasolina
     url: https://www.valesdegasolina.com/
     icon: https://www.efectivale.com.mx/static/website/img/home/favicon.ico
-    __dangerous__disable_verify_host: true
+    #__dangerous__disable_verify_host: true
   - name: Vales de Despensa
     url: https://www.valesdedespensa.com/
     icon: https://www.efectivale.com.mx/static/website/img/home/favicon.ico
-    __dangerous__disable_verify_host: true
+    #__dangerous__disable_verify_host: true
   - name: Efectimapas
     url: https://www.efectimapas.com/
     icon: https://www.efectivale.com.mx/static/website/img/home/favicon.ico
-    __dangerous__disable_verify_host: true
+    #__dangerous__disable_verify_host: true
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
