@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 605,
-    "timeDay": 605,
-    "timeWeek": 605,
-    "timeMonth": 605,
-    "timeYear": 605,
+    "time": 496,
+    "timeDay": 496,
+    "timeWeek": 496,
+    "timeMonth": 496,
+    "timeYear": 496,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/www.efectivale.com.mx",
     "slug": "efectivale-com-mx-certificado-ssl",
     "status": "down",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-01": 14
+      "2022-06-01": 17
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 244,
-    "timeDay": 244,
-    "timeWeek": 244,
-    "timeMonth": 244,
-    "timeYear": 244,
+    "time": 211,
+    "timeDay": 211,
+    "timeWeek": 211,
+    "timeMonth": 211,
+    "timeYear": 211,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 242,
-    "timeDay": 242,
-    "timeWeek": 242,
-    "timeMonth": 242,
-    "timeYear": 242,
+    "time": 262,
+    "timeDay": 262,
+    "timeWeek": 262,
+    "timeMonth": 262,
+    "timeYear": 262,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 561,
-    "timeDay": 561,
-    "timeWeek": 561,
-    "timeMonth": 561,
-    "timeYear": 561,
+    "time": 539,
+    "timeDay": 539,
+    "timeWeek": 539,
+    "timeMonth": 539,
+    "timeYear": 539,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 299,
-    "timeDay": 299,
-    "timeWeek": 299,
-    "timeMonth": 299,
-    "timeYear": 299,
+    "time": 247,
+    "timeDay": 247,
+    "timeWeek": 247,
+    "timeMonth": 247,
+    "timeYear": 247,
     "dailyMinutesDown": {}
   },
   {
@@ -114,66 +114,6 @@
     "url": "http://www.valesdedespensa.com/",
     "icon": "http://www.efectivale.com.mx/static/website/img/home/favicon.ico",
     "slug": "vales-de-despensa",
-    "status": "down",
-    "uptime": "0.09%",
-    "uptimeDay": "0.09%",
-    "uptimeWeek": "0.09%",
-    "uptimeMonth": "0.09%",
-    "uptimeYear": "0.09%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-06-01": 36
-    }
-  },
-  {
-    "name": "Vales de Despensa certificado ssl",
-    "url": "https://www.valesdedespensa.com/",
-    "icon": "https://favicons.githubusercontent.com/www.valesdedespensa.com",
-    "slug": "vales-de-despensa-certificado-ssl",
-    "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-06-01": 28
-    }
-  },
-  {
-    "name": "Efectimapas",
-    "url": "http://www.efectimapas.com/",
-    "icon": "http://www.efectivale.com.mx/static/website/img/home/favicon.ico",
-    "slug": "efectimapas",
-    "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-06-01": 36
-    }
-  },
-  {
-    "name": "Efectimapas certificado ssl",
-    "url": "https://www.efectimapas.com/",
-    "icon": "https://favicons.githubusercontent.com/www.efectimapas.com",
-    "slug": "efectimapas-certificado-ssl",
     "status": "down",
     "uptime": "0.07%",
     "uptimeDay": "0.07%",
@@ -186,7 +126,67 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-01": 27
+      "2022-06-01": 39
+    }
+  },
+  {
+    "name": "Vales de Despensa certificado ssl",
+    "url": "https://www.valesdedespensa.com/",
+    "icon": "https://favicons.githubusercontent.com/www.valesdedespensa.com",
+    "slug": "vales-de-despensa-certificado-ssl",
+    "status": "down",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-06-01": 30
+    }
+  },
+  {
+    "name": "Efectimapas",
+    "url": "http://efectimapas.com/",
+    "icon": "http://www.efectivale.com.mx/static/website/img/home/favicon.ico",
+    "slug": "efectimapas",
+    "status": "down",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-06-01": 39
+    }
+  },
+  {
+    "name": "Efectimapas certificado ssl",
+    "url": "https://efectimapas.com/",
+    "icon": "https://favicons.githubusercontent.com/efectimapas.com",
+    "slug": "efectimapas-certificado-ssl",
+    "status": "down",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-06-01": 30
     }
   },
   {
@@ -200,11 +200,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2662,
-    "timeDay": 2662,
-    "timeWeek": 2662,
-    "timeMonth": 2662,
-    "timeYear": 2662,
+    "time": 1358,
+    "timeDay": 1358,
+    "timeWeek": 1358,
+    "timeMonth": 1358,
+    "timeYear": 1358,
     "dailyMinutesDown": {}
   },
   {
@@ -218,11 +218,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 227,
-    "timeWeek": 227,
-    "timeMonth": 227,
-    "timeYear": 227,
+    "time": 169,
+    "timeDay": 169,
+    "timeWeek": 169,
+    "timeMonth": 169,
+    "timeYear": 169,
     "dailyMinutesDown": {}
   },
   {
@@ -231,18 +231,18 @@
     "icon": "http://www.efectivale.com.mx/static/website/img/home/favicon.ico",
     "slug": "efecti-net",
     "status": "down",
-    "uptime": "1.34%",
-    "uptimeDay": "1.34%",
-    "uptimeWeek": "1.34%",
-    "uptimeMonth": "1.34%",
-    "uptimeYear": "1.34%",
-    "time": 70,
-    "timeDay": 70,
-    "timeWeek": 70,
-    "timeMonth": 70,
-    "timeYear": 70,
+    "uptime": "0.51%",
+    "uptimeDay": "0.51%",
+    "uptimeWeek": "0.51%",
+    "uptimeMonth": "0.51%",
+    "uptimeYear": "0.51%",
+    "time": 66,
+    "timeDay": 66,
+    "timeWeek": 66,
+    "timeMonth": 66,
+    "timeYear": 66,
     "dailyMinutesDown": {
-      "2022-06-01": 0
+      "2022-06-01": 3
     }
   },
   {
@@ -251,18 +251,18 @@
     "icon": "https://favicons.githubusercontent.com/www.efectivale.com.mx",
     "slug": "efecti-net-certificado-ssl",
     "status": "down",
-    "uptime": "3.10%",
-    "uptimeDay": "3.10%",
-    "uptimeWeek": "3.10%",
-    "uptimeMonth": "3.10%",
-    "uptimeYear": "3.10%",
+    "uptime": "0.17%",
+    "uptimeDay": "0.17%",
+    "uptimeWeek": "0.17%",
+    "uptimeMonth": "0.17%",
+    "uptimeYear": "0.17%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-01": 0
+      "2022-06-01": 3
     }
   },
   {
@@ -276,11 +276,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 373,
-    "timeDay": 373,
-    "timeWeek": 373,
-    "timeMonth": 373,
-    "timeYear": 373,
+    "time": 377,
+    "timeDay": 377,
+    "timeWeek": 377,
+    "timeMonth": 377,
+    "timeYear": 377,
     "dailyMinutesDown": {}
   },
   {
@@ -294,11 +294,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 215,
-    "timeWeek": 215,
-    "timeMonth": 215,
-    "timeYear": 215,
+    "time": 226,
+    "timeDay": 226,
+    "timeWeek": 226,
+    "timeMonth": 226,
+    "timeYear": 226,
     "dailyMinutesDown": {}
   },
   {
@@ -312,11 +312,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 676,
-    "timeDay": 676,
-    "timeWeek": 676,
-    "timeMonth": 676,
-    "timeYear": 676,
+    "time": 701,
+    "timeDay": 701,
+    "timeWeek": 701,
+    "timeMonth": 701,
+    "timeYear": 701,
     "dailyMinutesDown": {}
   },
   {
@@ -330,11 +330,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 258,
-    "timeWeek": 258,
-    "timeMonth": 258,
-    "timeYear": 258,
+    "time": 247,
+    "timeDay": 247,
+    "timeWeek": 247,
+    "timeMonth": 247,
+    "timeYear": 247,
     "dailyMinutesDown": {}
   }
 ]
