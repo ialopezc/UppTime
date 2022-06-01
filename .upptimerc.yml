@@ -10,7 +10,7 @@ sites:
     __dangerous__disable_verify_host: true
   - name: Efectivale .com.mx certificado ssl
     url: https://www.efectivale.com.mx/
-    icon: https://thumbs.dreamstime.com/b/global-ssl-security-icon-safe-secure-web-sites-internet-ssl-certificate-site-advantage-tls-closed-padlock-o-84112467.jpg
+    icon: https://cdn-icons-png.flaticon.com/512/1320/1320569.png
     
   - name: Efectivale .com
     url: http://www.efectivale.com/combustible1/
