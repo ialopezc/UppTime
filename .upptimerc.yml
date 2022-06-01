@@ -38,6 +38,34 @@ sites:
     __dangerous__disable_verify_host: true
   - name: Efectimapas certificado ssl
     url: https://www.efectimapas.com/
+  
+  - name: CMS Facebook
+    url: http://www.efectivale.com/cms/
+    icon: http://www.efectivale.com.mx/static/website/img/home/favicon.ico
+    __dangerous__disable_verify_host: true
+  - name: CMS Facebook certificado ssl
+    url: https://www.efectivale.com/cms/
+    
+  - name: EfectiNet
+    url: http://www.efectivale.com.mx/efectinet/login
+    icon: http://www.efectivale.com.mx/static/website/img/home/favicon.ico
+    __dangerous__disable_verify_host: true
+  - name: EfectiNet certificado ssl
+    url: https://www.efectivale.com.mx/efectinet/login
+    
+  - name: Efectifintech
+    url: http://www.efectifintech.com.mx/
+    icon: http://www.efectivale.com.mx/static/website/img/home/favicon.ico
+    __dangerous__disable_verify_host: true
+  - name: Efectifintech certificado ssl
+    url: https://www.efectifintech.com.mx/
+    
+  - name: Va Contigo
+    url: http://www.efectivalebeneficios.com/terminos-y-condiciones
+    icon: http://www.efectivale.com.mx/static/website/img/home/favicon.ico
+    __dangerous__disable_verify_host: true
+  - name: Va Contigo certificado ssl
+    url: https://www.efectivalebeneficios.com/terminos-y-condiciones
     
 assignees:
   - ialopezc
