@@ -116,19 +116,19 @@
     "url": "http://www.valesdegasolina.com/",
     "icon": "http://www.efectivale.com.mx/static/website/img/home/favicon.ico",
     "slug": "vales-de-gasolina",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 557,
-    "timeDay": 985,
-    "timeWeek": 817,
-    "timeMonth": 557,
-    "timeYear": 557,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 586,
+    "timeDay": 1223,
+    "timeWeek": 897,
+    "timeMonth": 586,
+    "timeYear": 586,
     "dailyMinutesDown": {
-      "2022-06-12": 1
+      "2022-06-12": 5
     }
   },
   {
