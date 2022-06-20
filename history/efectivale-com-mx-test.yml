@@ -1,7 +1,7 @@
 url: http://$SITE_EFV_TEST
 status: up
 code: 200
-responseTime: 597
-lastUpdated: 2022-06-19T23:02:22.919Z
+responseTime: 149
+lastUpdated: 2022-06-20T23:07:18.266Z
 startTime: Wed Jun 01 2022 22:48:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
