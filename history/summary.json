@@ -44,9 +44,9 @@
     "url": "http://$SITE_EFV_TEST",
     "icon": "http://www.efectivale.com.mx/static/website/img/home/favicon.ico",
     "slug": "efectivale-com-mx-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,16 +55,18 @@
     "timeWeek": 426,
     "timeMonth": 408,
     "timeYear": 395,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-07": 0
+    }
   },
   {
     "name": "Efectivale .com.mx TEST certificado ssl",
     "url": "https://$SITE_EFV_TEST",
     "icon": "https://cdn-icons-png.flaticon.com/512/1320/1320569.png",
     "slug": "efectivale-com-mx-test-certificado-ssl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,7 +75,9 @@
     "timeWeek": 199,
     "timeMonth": 189,
     "timeYear": 182,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-07": 0
+    }
   },
   {
     "name": "Efectivale .com",
@@ -305,18 +309,18 @@
     "icon": "http://www.efectivale.com.mx/static/website/img/home/favicon.ico",
     "slug": "automatic-saving-tools",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 327,
     "timeDay": 423,
     "timeWeek": 343,
     "timeMonth": 336,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2022-07-07": 0
+      "2022-07-07": 12
     }
   },
   {
@@ -325,18 +329,18 @@
     "icon": "https://cdn-icons-png.flaticon.com/512/1320/1320569.png",
     "slug": "automatic-saving-tools-certificado-ssl",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 183,
     "timeDay": 259,
     "timeWeek": 193,
     "timeMonth": 187,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2022-07-07": 0
+      "2022-07-07": 12
     }
   },
   {
@@ -345,18 +349,18 @@
     "icon": "http://www.efectivale.com.mx/static/website/img/home/favicon.ico",
     "slug": "sistema-de-leads",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 330,
     "timeDay": 415,
     "timeWeek": 344,
     "timeMonth": 336,
     "timeYear": 330,
     "dailyMinutesDown": {
-      "2022-07-07": 0
+      "2022-07-07": 12
     }
   },
   {
@@ -365,18 +369,18 @@
     "icon": "https://cdn-icons-png.flaticon.com/512/1320/1320569.png",
     "slug": "sistema-de-leads-certificado-ssl",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 186,
     "timeDay": 251,
     "timeWeek": 193,
     "timeMonth": 189,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2022-07-07": 0
+      "2022-07-07": 12
     }
   },
   {
